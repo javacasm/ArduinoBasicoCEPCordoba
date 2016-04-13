@@ -10,6 +10,10 @@ José Antonio Vacas @javacasm
 
 ![cc](./imagenes/CCbySQ_88x31.png)
 
+[https://github.com/javacasm/ArduinoBasicoCEPCordoba](https://github.com/javacasm/ArduinoBasicoCEPCordoba)
+
+([Enlace al moodle del curso](http://educacionadistancia.juntadeandalucia.es/profesorado/course/view.php?id=2418))
+
 
 # Arduino
 
