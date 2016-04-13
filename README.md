@@ -1,4 +1,4 @@
-# Arduino Básico
+# Arduino Básico (161408FP09)
 
 ## Curso para el CEP de Cordoba
 
@@ -8,7 +8,12 @@
 
 José Antonio Vacas @javacasm
 
+[https://github.com/javacasm/ArduinoBasicoCEPCordoba](https://github.com/javacasm/ArduinoBasicoCEPCordoba)
+
 ![cc](./imagenes/CCbySQ_88x31.png)
+
+([Enlace al moodle del curso](http://educacionadistancia.juntadeandalucia.es/profesorado/course/view.php?id=2418))
+
 
 
 1. [Arduino](./Arduino.md):
