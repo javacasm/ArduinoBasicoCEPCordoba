@@ -11,11 +11,11 @@ José Antonio Vacas @javacasm
 ![cc](./imagenes/CCbySQ_88x31.png)
 
 
-1. Arduino:
+1. [Arduino](./Arduino.md):
   * Breve historia y revisión de proyectos que lo usan
   * Programación con entornos visuales
   * Componentes electrónicos sencillos
-1. Programación visual en Arduino
+1. [Programación visual en Arduino](./Bitbloq.md)
   * Sentencias de control
   * Variables
   * Medida de tiempos
@@ -24,7 +24,7 @@ José Antonio Vacas @javacasm
   * Uso de librerías
   * Sensores
   * Actuadores (motores y servos)
-1. Montaje de proyectos
+1. [Montaje de proyectos](./proyectos.md)
   * Definición del proyecto
   * Montaje
   * Programación
