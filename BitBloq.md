@@ -41,7 +41,7 @@ A lo largo de estos vídeos veremos algunas de sus características más importa
 [[vídeo]](https://youtu.be/rOdMRhhQTUs) [[ejemplo
 Parpadeo]](https://raw.githubusercontent.com/javacasm/ArduinoBasico/blob/master/bitbloq/1.%20parpadeo.json)
 
-![parpadeo](https://raw.githubusercontent.com/javacasm/ArduinoBasico/master/bitbloq/1%20parpadeo.png)
+![parpadeo](./imagenes/1%20parpadeo.png)
 
 ### Usaremos el led interno
 
