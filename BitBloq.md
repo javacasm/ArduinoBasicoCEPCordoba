@@ -222,7 +222,7 @@ Podemos hacer que en caso de que se cumpla se ejecute un código (es el bloque i
 [[vídeo](http://youtu.be/en_Y-_wVyO0)]
 [][ejemplo](./ejemplosBitbloq/condiciones_if.xml)]
 
-![Condiciones_lógicas](https://raw.githubusercontent.com/javacasm/ArduinoBasico/master/bitbloq/concional%20compleja.png)
+![Condiciones_lógicas](./imagenes/concional%20compleja.png)
 
 La condición que determina si se ejecuta un bloque u otro o si salimos de un bloque while puede contener varias comprobaciones.
 
@@ -233,6 +233,7 @@ Entre estas condiciones utilizaremos operadores lógicos que pueden ser AND o OR
 * Con que se cumpla una de elllas se dará por válida toda la condición
 
 * * *
+
 # Escritura de valores analógicos
 
 ## Usando técnicas como PWM podemos simular valores intermedios: 0 - 255
@@ -285,7 +286,7 @@ Entre estas condiciones utilizaremos operadores lógicos que pueden ser AND o OR
 ## Envío de datos al PC:
 [[vídeo]](https://youtu.be/hy9t76RLeBU) [[ejemplo]](https://raw.githubusercontent.com/javacasm/ArduinoBasico/master/bitbloq/comunicacion%20serie.json)
 
-![serial](https://raw.githubusercontent.com/javacasm/ArduinoBasico/master/bitbloq/comunicacion%20serie.png)
+![serial](./imagenes/comunicacion_serie.png)
 
 Podemos enviar contenidos entre nuestra placa y el PC usando las sentencias de comunicaciones. Usaremos print para enviar algo (puede ser el valor de una variable o un texto) al pc o println para enviar y pasar a la siguiente línea.
 
@@ -293,13 +294,13 @@ Podemos enviar contenidos entre nuestra placa y el PC usando las sentencias de c
 
 [[video]](https://youtu.be/nChCA1Qc0uo)[[ejemplo]](https://raw.githubusercontent.com/javacasm/ArduinoBasico/master/bitbloq/entrada%20analogica.json)
 
-![entradasanalogicas](https://raw.githubusercontent.com/javacasm/ArduinoBasico/master/bitbloq/entrada%20analogica.png)
+![entradasanalogicas](./imagenes/entrada%20analogica.png)
 
 ## Variables locales vs Variables globales
 
 [vídeo](https://youtu.be/U3ulo7rAE58) [ejemplo](https://raw.githubusercontent.com/javacasm/ArduinoBasico/master/bitbloq/variables%20globales.json)
 
-![ejemplo](https://raw.githubusercontent.com/javacasm/ArduinoBasico/master/bitbloq/variables%20globales.png)
+![ejemplo](./imagenes/variables%20globales.png)
 
 Podemos definir variables locales o globales. Una variable global estará definida y por tanto mantendrá su valor en todo el programa, mientras que una variable local solo se definirá donde se haya declarado.
 
@@ -309,7 +310,7 @@ Las variables globales mantienen su valor entre las distintas iteraciones que se
 
 [[ejemplo]](https://raw.githubusercontent.com/javacasm/ArduinoBasico/master/bitbloq/ejemplo%20bucle%20arduino.json)
 
-![ejemplo](https://raw.githubusercontent.com/javacasm/ArduinoBasico/master/bitbloq/ejemplo%20bucle%20arduino.png)
+![ejemplo](./imagenes/ejemplo%20bucle%20arduino.png)
 
 Podemos usar la forma cíclica (y unas variables globales) en la que se ejecutan los programas en Arduino para hacer un bucle sin más estructuras de control que una simple variable global
 
@@ -322,7 +323,7 @@ En bitbloq existen 2 formas de generar sonidos
 
 * Si pulsamos en la opción de "Avanzados" veremos que podemos usar bloques donde seleccionar la frecuencia exacta que queremos reproducir y su duración.
 
-![imagen](https://raw.githubusercontent.com/javacasm/ArduinoBasico/master/bitbloq/sonido.png) [[ejemplo]](https://raw.githubusercontent.com/javacasm/ArduinoBasico/master/bitbloq/sonido.json)
+![imagen](./imagenes/sonido.png) [[ejemplo]](https://raw.githubusercontent.com/javacasm/ArduinoBasico/master/bitbloq/sonido.json)
 
 
 
@@ -333,19 +334,19 @@ Veamos como podemos usar las entradas y salidas digitales
 [[video]](https://youtu.be/GmvUamkeG4Y) [[ejemplo]](https://raw.githubusercontent.com/javacasm/ArduinoBasico/master/bitbloq/pines%20digitales.json)
 
 
-![imagen](https://raw.githubusercontent.com/javacasm/ArduinoBasico/master/bitbloq/pines%20digitales.png)
+![imagen](./imagenes/pines%20digitales.png)
 
 Veamos ahora como activar un led al pulsar un botón. Para ello añadiremos un botón y un led en el apartado del hardware
 
 [[ejemplo]](https://raw.githubusercontent.com/javacasm/ArduinoBasico/master/bitbloq/entradaysalidadigital.json)
 
-![ejemplo](https://raw.githubusercontent.com/javacasm/ArduinoBasico/master/bitbloq/entradaysalidadigital.png)
+![ejemplo](./imagenes/entradaysalidadigital.png)
 
 ## Entradas analógicas
 
 [[video]](https://youtu.be/nChCA1Qc0uo)[[ejemplo]](https://raw.githubusercontent.com/javacasm/ArduinoBasico/master/bitbloq/entrada%20analogica.json)
 
-![entradasanalogicas](https://raw.githubusercontent.com/javacasm/ArduinoBasico/master/bitbloq/entrada%20analogica.png)
+![entradasanalogicas](./imagenes/entrada%20analogica.png)
 
 ## Servos
 
