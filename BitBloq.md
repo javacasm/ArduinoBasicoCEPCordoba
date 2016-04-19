@@ -188,12 +188,12 @@ Con las variables podemos realizar operaciones matemáticas
 
 [[video]](https://youtu.be/nvRUCZERScE)  [[ejemplo]](https://raw.githubusercontent.com/javacasm/ArduinoBasico/master/bitbloq/operaciones%20variables.json)
 
-![ejemplo](https://raw.githubusercontent.com/javacasm/ArduinoBasico/master/bitbloq/operaciones%20variables.png)
+![ejemplo](./imagenes/operaciones%20variables.png)
 
 ### Bucle **for**
 [[vídeo]](https://youtu.be/mIAgTdc4oC8) [[ejemplo]](https://raw.githubusercontent.com/javacasm/ArduinoBasico/master/bitbloq/bucle%20for.json)
 
-![bucle for](https://raw.githubusercontent.com/javacasm/ArduinoBasico/master/bitbloq/bucle%20for.png)
+![bucle for](./imagenes/bucle%20for.png)
 
 El bucle **for** permite repetir un conjunto de pasos un número de veces determinado.
 Necesitamos  declarar una variables que actuará como contador y definir el valor inicial que tendrá la variable y el final, realizándose tantos como pasos como valores enteros haya entre ambas.
@@ -201,14 +201,14 @@ Necesitamos  declarar una variables que actuará como contador y definir el valo
 ### Bucle **while**
 [[vídeo]](https://youtu.be/RVcaaz1NYjk) [[ejemplo]](https://raw.githubusercontent.com/javacasm/ArduinoBasico/master/bitbloq/bucle%20while.json)
 
-![bucle while](https://raw.githubusercontent.com/javacasm/ArduinoBasico/master/bitbloq/bucle%20mientras.png)
+![bucle while](./imagenes/bucle%20mientras.png)
 
 Usaremos la sentencia de control **while** para los bucles donde el número de veces que se repite no está definido desde el principio
 
 ### Bloque **if** : sentencias condicionales
 [[vídeo]](https://youtu.be/RTtn_77pZY4	) [[ejemplo]](https://raw.githubusercontent.com/javacasm/ArduinoBasico/master/bitbloq/condiconales.json)
 
-![condicional](https://raw.githubusercontent.com/javacasm/ArduinoBasico/master/bitbloq/condicionales.png)
+![condicional](./imagenes/condicionales.png)
 
 Las sentencias condicionales permiten ejecutar un código y otro según se cumpla o no una determinada condición. Esta condición será una validación que definiremos con operandos.
 
@@ -216,7 +216,7 @@ Podemos hacer que en caso de que se cumpla se ejecute un código (es el bloque i
 
 [[video]](https://youtu.be/-f_htl5TQN8)[[ejemplo]](https://raw.githubusercontent.com/javacasm/ArduinoBasico/master/bitbloq/condicional%20compleja.json)
 
-![ejemplo](https://raw.githubusercontent.com/javacasm/ArduinoBasico/master/bitbloq/concional%20compleja.png)
+![ejemplo](./imagenes/concional%20compleja.png)
 
 ### Condicionales complejas
 [[vídeo](http://youtu.be/en_Y-_wVyO0)]
