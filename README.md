@@ -20,7 +20,7 @@ José Antonio Vacas @javacasm
   * Breve historia y revisión de proyectos que lo usan
   * Programación con entornos visuales
   * Componentes electrónicos sencillos
-1. [Programación visual en Arduino](./Bitbloq.md)
+1. [Programación visual en Arduino](./BitBloq.md)
   * Sentencias de control
   * Variables
   * Medida de tiempos
