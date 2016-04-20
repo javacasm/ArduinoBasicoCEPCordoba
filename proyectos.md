@@ -83,6 +83,35 @@ Coneptos:
 * Histéresis: importancia de dejar unos márgenes de tolerancia.
 * Funciones condicionales simples y complejas.
 
+# Luz de escalera con duración regulable
+
+## Hardware
+
+Un pulsador activa la luz de la escalera, cuya duración depende del valor de un potenciómetro
+
+![HardwareLuzEscalera](./imagenes/HardwareLuzEscalera.png)
+
+## [Enlace al Proyecto](http://bitbloq.bq.com/#/bloqsproject/546e2764e4b0bde006d0857e:f38326dd-180b-4f46-8963-3cbd35d909a1)
+
+## Programa
+
+![SoftwareLuzEscalera](./imagenes/SoftwareLuzEscalera.png)
+
+# Robot No te caigas
+
+Robot muy sencillo que va vigilando por si encuentra el borde de la mesa, deteniéndose si lo encuentra.
+
+## Hardware
+
+![HardwareNoTeCaigas](./imagenes/HardwareNoTeCaigas.png)
+
+## Programa
+
+![SoftwareNoTeCaigas](./imagenes/SotwareNoTeCaigas.png)
+
+## [Enlace al Proyecto](http://bitbloq.bq.com/#/bloqsproject/546e2764e4b0bde006d0857e:4c95e7b5-0717-4881-8593-8963f37550aa)
+
+
 # Semáforo
 
 ## Pasos
