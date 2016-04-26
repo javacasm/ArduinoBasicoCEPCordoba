@@ -25,6 +25,18 @@ José Antonio Vacas @javacasm
 
 [Otros Proyectos](https://github.com/javacasm/ProyectosEscolaresRobots/blob/master/proyectos/proyectos.md)
 
+# web de proyectos
+
+[Hackster](https://www.hackster.io/)
+
+[HackADay](http://hackaday.com/)
+
+[Instructables](http://www.instructables.com/)
+
+[MakeZine](http://makezine.com/)
+
+[Foros Spainlabs](http://spainlabs.com/foros/)
+
 # Parpadeando
 
 1. Empezamos con 1 led Parpadeando
